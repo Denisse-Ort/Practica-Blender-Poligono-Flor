@@ -1,6 +1,7 @@
 # Practica-Blender-Poligono-Flor
 Aquí se muestran las prácticas de la materia de Graficación. Poligono en Blender y la Flor de vida
-Práctica: Generación de Geometría Radial con Python en Blender
+
+Práctica: Flor de vida con Python en Blender
 
 En esta práctica trabajé en Blender utilizando Python para crear automáticamente un patrón de círculos concéntricos. El objetivo fue entender cómo las matemáticas, especialmente la trigonometría, pueden usarse para organizar objetos en el espacio 3D de manera precisa y ordenada.
 
